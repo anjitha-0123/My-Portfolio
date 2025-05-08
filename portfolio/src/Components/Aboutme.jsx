@@ -31,7 +31,7 @@ function Aboutme() {
 
           </motion.p>
 
-          <a href="/Anjitha_tv_resume.pdf" download className="btn btn-primary"> Download Resume</a>
+          <a href="/Anjitha_tv_resume.https://anjitha-0123.github.io/My-Portfolio/Anjitha_tv_resume.pdf" download className="btn btn-primary"> Download Resume</a>
 
         </div>
       </div>
