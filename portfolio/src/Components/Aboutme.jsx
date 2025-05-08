@@ -2,7 +2,6 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import anjitha from '../assets/images/anjitha.jpeg';
 
-
 function Aboutme() {
   return (
     <div  id='Aboutme' className="container mt-4">
