@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import anjitha from '../assets/images/anjitha.jpeg';
 
+
 function Aboutme() {
   return (
     <div  id='Aboutme' className="container mt-4">
@@ -31,7 +32,7 @@ function Aboutme() {
 
           </motion.p>
 
-          <a href="/Anjitha_Resume.pdf" download className="btn btn-primary"> Download Resume</a>
+          <a href="/Anjitha_tv_resume.pdf" download className="btn btn-primary"> Download Resume</a>
 
         </div>
       </div>
