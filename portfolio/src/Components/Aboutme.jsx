@@ -24,7 +24,7 @@ function Aboutme() {
           transition={{ duration: 1.5, ease: 'easeOut' }}>
           Hi! I'm Anjitha T V — an enthusiastic engineering graduate with a strong foundation in full-stack web development
           and a passion for building scalable, user-friendly applications. I have hands-on experience working with modern technologies 
-          like HTML, CSS, JavaScript, React.js, Node.js, MongoDB, and frameworks such as Nest.js and Express. I’m also proficient in tools
+          like HTML, CSS,Tailwind CSS, BootStrap, JavaScript, React.js,React-native, Node.js, MongoDB, and frameworks such as Nest.js and Express. I’m also proficient in tools
           like Docker, Canva, and Figma for design and deployment. Beyond coding, I enjoy turning creative ideas into reality and love solving 
           real-world problems through technology. I’m eager to contribute to dynamic teams and continuously grow as a developer.Currently, 
           I’m looking for exciting opportunities where I can apply my skills, learn from industry experts, and make meaningful contributions to impactful projects.

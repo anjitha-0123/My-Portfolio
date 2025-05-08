@@ -48,7 +48,7 @@ function Project() {
               <a href="https://github.com/anjitha-0123/QuickCert-CertificateApp" className='text-decoration-none bg-light text-danger px-2 py-1 rounded d-inline-block mt-2' >Github</a>   
 
               <p className="card-text">
-                 BUild a certification management application named QuickCert.It allows users to sign up, log in, 
+                 BUild a certification management application named<span className='text-danger'>QuickCert</span> .It allows users to sign up, log in, 
                 log out, issue certificates, and search for issued certificates. 
               </p>
               
@@ -74,12 +74,12 @@ function Project() {
             <img src={library} className="card-img-top" alt="library" style={{ width: '400px', height: '280px' }}/>
             <div className="card-body">
               <h4 className="card-title text-danger">Library Management System</h4>
-              <a href="#" className='text-decoration-none bg-light text-danger px-2 py-1 rounded d-inline-block mt-2' >Github</a>   
+              <a href="https://github.com/anjitha-0123/Library-Management-System" className='text-decoration-none bg-light text-danger px-2 py-1 rounded d-inline-block mt-2' >Github</a>   
 
               <p className="card-text">
-                Developed a Social inspired Goal tracking platform named <span className="fw-bold">WonderLog</span>. 
-                It is an interactive platform that blends goal tracking with social engagement, allowing users
-                 to stay inspired and motivated on their journey to achieving their dreams.
+                BUild a library Management App named <span className="fw-bold">Book Shelf</span>. 
+                It is an userfriendly application the admin can do all the basic CRUD operations such as Add,View,Update,Delete the book 
+                details. Also Admin could keep record of the issued book details of user.
               </p>
 
               <div className='d-flex flex-wrap gap-2'>
@@ -127,10 +127,12 @@ function Project() {
             <img src={kbac} className="card-img-top" alt="kbac" />
             <div className="card-body">
               <h4 className="card-title text-danger">KBA Course App</h4>
-              <a href="#" className='text-decoration-none bg-light text-danger px-2 py-1 rounded d-inline-block mt-2' >Github</a>   
+              <a href="https://github.com/anjitha-0123/KBA-Courses" className='text-decoration-none bg-light text-danger px-2 py-1 rounded d-inline-block mt-2' >Github</a>   
 
               <p className="card-text">
-                Developed a Social inspired Goal tracking platform named <span className="fw-bold">WonderLog</span>. It is an interactive platform that blends goal tracking with social engagement, allowing users to stay inspired and motivated on their journey to achieving their dreams.
+                Developed an application named <span className="fw-bold">KBA Courses App</span>.
+                 It is an interactive platform that admin can add, edit, update the Course details provided by the organization 
+                 user could view the course details.
               </p>
 
               <div className='d-flex flex-wrap gap-2'>
