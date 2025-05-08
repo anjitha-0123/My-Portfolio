@@ -27,8 +27,8 @@ function App() {
   <div className="container py-5">
   <Aboutme></Aboutme>
   <Skills></Skills>
-  <Project></Project> 
   <Education></Education> 
+  <Project></Project> 
   <Certifications></Certifications>
   <Getintouch></Getintouch>
   </div>

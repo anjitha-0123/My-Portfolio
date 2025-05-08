@@ -2,11 +2,11 @@ import React from 'react'
 
 function Education() {
   return (
-    <div className='text-center' id='Education' >
-        <h3>Education</h3>
+    <div className='text-center top-6 bg-black placeholder-wave' id='Education' >
+        <h3 className='text-danger top-12'>Education</h3>
         <div>
         <h4>PG Diploma in Blockchain</h4>
-        <p>Digital UNiversity Kerala</p>
+        <p >Digital UNiversity Kerala</p>
         <p>2024-2025</p>
         </div>
 

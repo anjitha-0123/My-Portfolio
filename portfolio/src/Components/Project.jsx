@@ -17,8 +17,11 @@ function Project() {
             <img src={wonderlog} className="card-img-top" alt="WonderLog" style={{ width: '400px', height: '280px' }} />
             <div className="card-body">
               <h4 className="card-title text-danger">Social-Inspired Goal-Tracking Platform</h4>
+              <a href="https://github.com/anjitha-0123/DEB_Project-Wonderlog" className='text-decoration-none bg-light text-danger px-2 py-1 rounded d-inline-block mt-2' >Github</a>   
               <p className="card-text">
-                Developed a Social inspired Goal tracking platform named <span className="fw-bold">WonderLog</span>. It is an interactive platform that blends goal tracking with social engagement, allowing users to stay inspired and motivated on their journey to achieving their dreams.
+                Developed a Social inspired Goal tracking platform named <span className="fw-bold">WonderLog</span>. 
+                It is an interactive platform that blends goal tracking with social engagement, allowing users to stay
+                 inspired and motivated on their journey to achieving their dreams.
               </p>
 
               <div className='d-flex flex-wrap gap-2'>
@@ -41,10 +44,14 @@ function Project() {
           <div className="card h-100 bg-dark text-white ">
             <img src={quickcert} className="card-img-top" alt="quickcert" style={{ width: '400px', height: '280px' }} />
             <div className="card-body">
-              <h4 className="card-title text-danger">Quick Cert Application</h4>
+              <h4 className="card-title text-danger">Certification Management Application</h4>
+              <a href="https://github.com/anjitha-0123/QuickCert-CertificateApp" className='text-decoration-none bg-light text-danger px-2 py-1 rounded d-inline-block mt-2' >Github</a>   
+
               <p className="card-text">
-                Developed a Social inspired Goal tracking platform named <span className="fw-bold">WonderLog</span>. It is an interactive platform that blends goal tracking with social engagement, allowing users to stay inspired and motivated on their journey to achieving their dreams.
+                 BUild a certification management application named QuickCert.It allows users to sign up, log in, 
+                log out, issue certificates, and search for issued certificates. 
               </p>
+              
  
               <div className='d-flex flex-wrap gap-2'>
               <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML" />
@@ -67,8 +74,12 @@ function Project() {
             <img src={library} className="card-img-top" alt="library" style={{ width: '400px', height: '280px' }}/>
             <div className="card-body">
               <h4 className="card-title text-danger">Library Management System</h4>
+              <a href="#" className='text-decoration-none bg-light text-danger px-2 py-1 rounded d-inline-block mt-2' >Github</a>   
+
               <p className="card-text">
-                Developed a Social inspired Goal tracking platform named <span className="fw-bold">WonderLog</span>. It is an interactive platform that blends goal tracking with social engagement, allowing users to stay inspired and motivated on their journey to achieving their dreams.
+                Developed a Social inspired Goal tracking platform named <span className="fw-bold">WonderLog</span>. 
+                It is an interactive platform that blends goal tracking with social engagement, allowing users
+                 to stay inspired and motivated on their journey to achieving their dreams.
               </p>
 
               <div className='d-flex flex-wrap gap-2'>
@@ -90,8 +101,11 @@ function Project() {
             <img src={quizapp} className="card-img-top" alt="quizapp" />
             <div className="card-body">
               <h4 className="card-title text-danger">Quiz Application</h4>
+              <a href="https://github.com/anjitha-0123/Quiz_Application" className='text-decoration-none bg-light text-danger px-2 py-1 rounded d-inline-block mt-2' >Github</a>   
+
               <p className="card-text">
-                Developed a Social inspired Goal tracking platform named <span className="fw-bold">WonderLog</span>. It is an interactive platform that blends goal tracking with social engagement, allowing users to stay inspired and motivated on their journey to achieving their dreams.
+               Developed a  powerful and interactive mobile quiz application named<span className='fw-bold'>Quiz Hub</span> ,
+                where admins can manage quizzes and users can attend them with ease!
               </p>
 
               <div className='d-flex flex-wrap gap-2'>
@@ -112,7 +126,9 @@ function Project() {
           <div className="card h-100 bg-dark text-white ">
             <img src={kbac} className="card-img-top" alt="kbac" />
             <div className="card-body">
-              <h4 className="card-title text-danger">Blockchain Courses Application</h4>
+              <h4 className="card-title text-danger">KBA Course App</h4>
+              <a href="#" className='text-decoration-none bg-light text-danger px-2 py-1 rounded d-inline-block mt-2' >Github</a>   
+
               <p className="card-text">
                 Developed a Social inspired Goal tracking platform named <span className="fw-bold">WonderLog</span>. It is an interactive platform that blends goal tracking with social engagement, allowing users to stay inspired and motivated on their journey to achieving their dreams.
               </p>

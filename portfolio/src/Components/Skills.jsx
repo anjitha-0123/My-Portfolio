@@ -13,6 +13,7 @@ import react from '../assets/images/React.svg'
 import tcss from '../assets/images/Tailwind CSS.svg'
 import ts from '../assets/images/TypeScript.svg'
 import exp from '../assets/images/exp.jpg'
+import bootstrap from '../assets/images/Bootstrap.svg'
  
 function Skills() {
   return (
@@ -32,6 +33,8 @@ function Skills() {
       <img src={mdb} alt="MongoDB" style={{ width: '80px', height: '80px' }}/>
       <img src={react} alt="React.js" style={{ width: '80px', height: '80px' }} />
       <img src={docker} alt="Docker" style={{ width: '80px', height: '80px' }} />
+      <img src={bootstrap} alt="Bootstrap" style={{ width: '80px', height: '80px' }} />
+
     </div>
     </div>
   );
