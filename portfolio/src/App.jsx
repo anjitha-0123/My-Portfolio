@@ -26,7 +26,8 @@ function App() {
     <Websites></Websites>
   <div className="container py-5">
   <Aboutme></Aboutme>
-  <Skills></Skills>
+  <div className="mt-4"> <Skills></Skills></div>
+  
   <Education></Education> 
   <Project></Project> 
   <Certifications></Certifications>

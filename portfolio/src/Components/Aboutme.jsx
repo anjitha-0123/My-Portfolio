@@ -30,6 +30,9 @@ function Aboutme() {
           I’m looking for exciting opportunities where I can apply my skills, learn from industry experts, and make meaningful contributions to impactful projects.
 
           </motion.p>
+
+          <a href="/Anjitha_Resume.pdf" download className="btn btn-primary"> Download Resume</a>
+
         </div>
       </div>
     </div>

@@ -17,7 +17,7 @@ import bootstrap from '../assets/images/Bootstrap.svg'
  
 function Skills() {
   return (
-    <div id='Skills' className='bg-black placeholder-wave'>
+    <div id='Skills' className='bg-black placeholder-wave '>
       <h2 className='text-center text-danger '>Skills</h2>
       <div className="d-flex  flex-wrap justify-content-center gap-4 p-3   ">
       <img src={figma} alt="Figma" style={{ width: '80px', height: '80px' }}/>
